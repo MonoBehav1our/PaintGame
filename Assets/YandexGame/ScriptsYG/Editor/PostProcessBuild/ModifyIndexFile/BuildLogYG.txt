@@ -1,0 +1,2 @@
+Build path: D:/UnityProject/TestBuildPaintGame/0.0.0.7
+Build number: 11
